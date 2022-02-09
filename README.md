@@ -13,9 +13,9 @@
 
 * I love to  contribute to open source projects :bulb:
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](http://kaustubh.dev)
+* :magnet: You can checkout my projects from [here](http://kaustubh.dev) :fire:
 
-* Connect with me on Linkedin :fireworks: [Linkedin Profile](https://www.linkedin.com/in/kaustubh-saxena-b953ba27/) :sparkler:
+* Connect with me on [Linkedin](https://www.linkedin.com/in/kaustubh-saxena-b953ba27/) :fireworks: :sparkler:
 
 
 ## Tech Stack :computer:
@@ -26,92 +26,97 @@
  <tr>
 <td align="center" width="20%">
 
-<img height=60px src="https://kaustubh.dev/img/js.5b546759.svg"> 
+<img height=60px src="https://kaustubh.dev/icons/js.svg"> 
 </td>
 
 <td align="center" width="20%">
 
-<img height=60px src="https://kaustubh.dev/img/python.5029bd34.svg"> 
+<img height=60px src="https://kaustubh.dev/icons/python.svg"> 
 </td>
 
 <td align="center" width="20%">
 
-<img height=60px src="https://kaustubh.dev/img/php.89d81358.svg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-
-<img height=65px src="https://kaustubh.dev/img/react.366d288b.svg"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/img/vue.3d18d65c.svg"> 
+<img height=60px src="https://kaustubh.dev/icons/php.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/img/html.5e025b38.svg"> 
+
+<img height=65px src="https://kaustubh.dev/icons/react.svg"> 
 </td>
 
 <td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/img/css_sass_scss.436fe529.svg"> 
+<img height=65px src="https://kaustubh.dev/icons/nodejs.svg"> 
 </td>
 
-
-
 <td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/img/redux.3e3945f4.svg"> 
+<img height=65px src="https://kaustubh.dev/icons/svelte.svg"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
-<td align="center" width="20%">
-    <img height=65px src="https://kaustubh.dev/img/typescript.3de182d2.svg"> 
+<img height=65px src="https://kaustubh.dev/icons/gsap.svg"> 
 </td>
 
 <td align="center" width="20%">
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<img height=65px src="https://kaustubh.dev/icons/vue.svg"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<img height=65px src="https://kaustubh.dev/icons/html.svg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<img height=65px src="https://kaustubh.dev/icons/css.svg"> 
+</td>
+<td align="center" width="20%">
+    <img height=65px src="https://kaustubh.dev/icons/redux.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://kaustubh.dev/icons/nextjs.svg"> 
 </td>
 </tr>
 
 <tr>
     <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/img/nextjs.6338e3b1.png"> 
+        <img height=65px src="https://kaustubh.dev/icons/nextjs.svg"> 
     </td>
     <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/img/nodejs.705b987e.svg"> 
+        <img height=65px src="https://kaustubh.dev/icons/mongodb.svg"> 
     </td>
     <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/img/graphql.e70025e8.svg"> 
+        <img height=65px src="https://kaustubh.dev/icons/graphql.svg"> 
     </td>
   </tr>
   <tr>
     <td align="center" width="20%"> 
-        <img height=65px src="https://kaustubh.dev/img/illustration.6e78f383.svg"> 
+        <img height=65px src="https://kaustubh.dev/icons/git.svg"> 
     </td>
     <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/img/laravel.bea042bc.svg"> 
+        <img height=65px src="https://kaustubh.dev/icons/mysql.svg"> 
     </td>
     <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/img/codeignitor.510c5b6e.svg"> 
+        <img height=65px src="https://kaustubh.dev/icons/illustration.svg"> 
     </td>
 </tr>
 <tr>
   <td></td>
     <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/img/yii2.cea65d0a.png"> 
+        <img height=65px src="https://kaustubh.dev/icons/typescript.svg"> 
     </td>
-  <td></td>
+  <td align="center" width="20%">
+        <img height=65px src="https://kaustubh.dev/icons/laravel.svg"> 
+    </td>
+ <td align="center" width="20%">
+        <img height=65px src="https://kaustubh.dev/icons/yii2.svg"> 
+    </td>
 </tr>
 </tbody>
 </table>
