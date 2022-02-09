@@ -107,7 +107,6 @@
     </td>
 </tr>
 <tr>
-  <td></td>
     <td align="center" width="20%">
         <img height=65px src="https://kaustubh.dev/icons/typescript.svg"> 
     </td>
