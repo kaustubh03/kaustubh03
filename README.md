@@ -3,7 +3,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 <h2 align="center"> the imperfect technocrat </h2>
 
-* I am [Kaustubh Saxena](https://www.kaustubh.dev/) :blush:	 . Currently Software Engineer @ The Economist Intelligence Unit :satellite:
+* I am [Kaustubh Saxena](https://www.kaustubh.dev/) :blush:	 . Currently Senior Software Engineer @ BrowserStack :satellite:
 
 * I am a Full Stack Engineer :sparkles:.
 
@@ -121,6 +121,7 @@
 ![Kaustubh Saxena Github Stats](https://github-readme-stats.vercel.app/api?username=kaustubh03&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Places I've Worked :arrow_down:
+- [BrowserStack](https://browserstack.com)
 - [The EIU](https://economistgroup.com)
 - [Paytm](https://paytm.com)
 - [Lambdatest](https://lambdatest.com)
@@ -128,12 +129,7 @@
 
 
 ## My Projects:
-- Professional Work
-<img width="400" src="https://i.ibb.co/KjDjD3J/Screenshot-2020-09-29-at-9-49-30-PM.png" />
-<img width="400" src="https://i.ibb.co/G752cnX/Screenshot-2020-09-29-at-10-03-12-PM.png" />
-
-- Side Projects
-<img width="400" src="https://i.ibb.co/qxwrWcn/Screenshot-2020-09-29-at-9-51-20-PM.png" />
-<img width="400" src="https://i.ibb.co/0XgJWSS/Screenshot-2020-09-29-at-9-51-31-PM.png" />
+- [Professional Work](https://kaustubh.dev/projects)
+- [Side Projects](https://kaustubh.dev/sideprojects)
 
 :star: From [Kaustubh03](https://github.com/Kaustubh03/)
