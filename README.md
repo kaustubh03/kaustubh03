@@ -41,8 +41,4 @@
 - [Etelligens Technologies](https://etelligens.com)
 
 
-## My Projects:
-- [Professional Work](https://kaustubh.dev/projects)
-- [Side Projects](https://kaustubh.dev/sideprojects)
-
 :star: From [Kaustubh03](https://github.com/Kaustubh03/)
