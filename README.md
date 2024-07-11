@@ -18,26 +18,16 @@
 
 ## Tech Stack :computer:
 
-+------------+------------+------------+
-| JavaScript |   Python   |    PHP     |
-+------------+------------+------------+
-|   React    |   Node.js  |   Svelte   |
-+------------+------------+------------+
-|    GSAP    |    Vue     |    HTML    |
-+------------+------------+------------+
-|    CSS     |   Redux    |   Next.js  |
-+------------+------------+------------+
-|  Next.js   |  MongoDB   |  GraphQL   |
-+------------+------------+------------+
-|    Git     |   MySQL    | Illustrator|
-+------------+------------+------------+
-| TypeScript |   Laravel  |    Yii2    |
-+------------+------------+------------+
-|   Chrome   |  VS Code   |  Terraform |
-| Extension  | Extension  |            |
-+------------+------------+------------+
-|   CI/CD    |   Infra    |  Tailwind  |
-+------------+------------+------------+
+| JavaScript | Python | PHP |
+|------------|--------|-----|
+| React | Node.js | Svelte |
+| GSAP | Vue | HTML |
+| CSS | Redux | Next.js |
+| Next.js | MongoDB | GraphQL |
+| Git | MySQL | Illustrator |
+| TypeScript | Laravel | Yii2 |
+| Chrome Extension | VS Code Extension | Terraform |
+| CI/CD | Infra | Tailwind |
 
 
  
