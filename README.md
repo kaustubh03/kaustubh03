@@ -9,8 +9,6 @@
 
 * I have done multiple projects ranging from the field of Frontend to Backend and little bit Game Development :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn Devops, Golang and Terraform .
-
 * I love to  contribute to open source projects :bulb:
 
 * :magnet: You can checkout my projects from [here](http://kaustubh.dev) :fire:
@@ -20,105 +18,26 @@
 
 ## Tech Stack :computer:
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-
-<img height=60px src="https://kaustubh.dev/icons/js.svg"> 
-</td>
-
-<td align="center" width="20%">
-
-<img height=60px src="https://kaustubh.dev/icons/python.svg"> 
-</td>
-
-<td align="center" width="20%">
-
-<img height=60px src="https://kaustubh.dev/icons/php.svg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-
-<img height=65px src="https://kaustubh.dev/icons/react.svg"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/icons/nodejs.svg"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/icons/svelte.svg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/icons/gsap.svg"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/icons/vue.svg"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/icons/html.svg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/icons/css.svg"> 
-</td>
-<td align="center" width="20%">
-    <img height=65px src="https://kaustubh.dev/icons/redux.svg"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://kaustubh.dev/icons/nextjs.svg"> 
-</td>
-</tr>
-
-<tr>
-    <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/nextjs.svg"> 
-    </td>
-    <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/mongodb.svg"> 
-    </td>
-    <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/graphql.svg"> 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"> 
-        <img height=65px src="https://kaustubh.dev/icons/git.svg"> 
-    </td>
-    <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/mysql.svg"> 
-    </td>
-    <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/illustration.svg"> 
-    </td>
-</tr>
-<tr>
-    <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/typescript.svg"> 
-    </td>
-  <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/laravel.svg"> 
-    </td>
- <td align="center" width="20%">
-        <img height=65px src="https://kaustubh.dev/icons/yii2.svg"> 
-    </td>
-</tr>
-</tbody>
-</table>
++------------+------------+------------+
+| JavaScript |   Python   |    PHP     |
++------------+------------+------------+
+|   React    |   Node.js  |   Svelte   |
++------------+------------+------------+
+|    GSAP    |    Vue     |    HTML    |
++------------+------------+------------+
+|    CSS     |   Redux    |   Next.js  |
++------------+------------+------------+
+|  Next.js   |  MongoDB   |  GraphQL   |
++------------+------------+------------+
+|    Git     |   MySQL    | Illustrator|
++------------+------------+------------+
+| TypeScript |   Laravel  |    Yii2    |
++------------+------------+------------+
+|   Chrome   |  VS Code   |  Terraform |
+| Extension  | Extension  |            |
++------------+------------+------------+
+|   CI/CD    |   Infra    |  Tailwind  |
++------------+------------+------------+
 
 
  
